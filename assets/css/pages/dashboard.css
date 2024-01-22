@@ -1,0 +1,130 @@
+.welcome {
+    font-weight: bold;  
+    font-size: 35px; 
+    text-align: center;
+}
+
+.welcome-back {
+    color: rgb(115, 109, 109);
+    text-align: center;
+}
+
+.badge-p {
+    background-color: rgb(178, 178, 178);
+}
+
+.badge-s {
+    background-color: rgb(189, 219, 243);
+}
+
+.badge-op {
+    background-color: rgb(225, 175, 247);
+}
+
+.badge-oh {
+    background-color: rgb(239, 220, 171);
+}
+
+.badge-od {
+    background-color: rgb(241, 162, 162);
+}
+
+.badge-d {
+    background-color: rgb(179, 225, 179);
+}
+
+.badge-bt{
+    background-color: rgb(184, 188, 246);
+
+}
+
+.btn-color {
+    background-color: rgb(164, 169, 234);
+    border-color: #A4A9EA;
+    outline-color: #acadb7;
+    font-weight: bold;
+}
+
+.btn-project{
+    background-color: #b3b7e4;
+    border-color: #8a8fd0;
+    font-weight: bold;
+
+}
+
+.btn-action {
+    color: #959ade;
+    border-color: #A4A9EA;
+    font-weight: bold;
+    
+}
+
+.btn-cancel {
+    color: #A4A9EA;
+    border-color: #A4A9EA;
+}
+
+
+.btn-color:hover {
+    background-color: #9b9ed8;
+    border-color: #989cdb;
+}
+
+.navbar-color {
+    background-color: #b5b9ed;
+    border-color: #A4A9EA;
+}
+
+.card-header {
+    background-color: #b5b9ed;
+    
+}
+
+.progress-sm {
+    outline-color: #acadb7;
+    outline-style: solid;
+    outline-width: 1px;
+    border-radius: 5px;
+}
+
+.navbar-color {
+    background-color: #b5b9ed;
+    border-color: #A4A9EA;
+}
+
+.i-name {
+    color: #000; 
+    font-size: 24px;
+}
+
+.dash {
+    color: #b5b9ed; 
+    font-size: 20px;
+}
+
+.project-l {
+    color: #b5b9ed; 
+    font-size: 15px;
+}
+
+
+.user {
+    color: #b5b9ed; 
+    font-size: 30px;
+}
+
+.modal-title {
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.modal-header {
+    background-color: #b5b9ed;
+    text-align: center;
+ }
+
+ .btn-action{
+    border-color: #A4A9EA;
+    color: #A4A9EA;
+ }
